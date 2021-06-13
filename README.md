@@ -28,6 +28,10 @@ Males made the most trips compared to Women and those of unknown gender.
 
 Peak hours correspond to the start and end of the normal workday and during the mid-morning to afternoon time on weekends. 
 
+![image](https://user-images.githubusercontent.com/78890771/121822965-c85a7000-cc67-11eb-81cc-1c942b29fa8e.png)
+
+Checkout times for users were greatest at the five hour mark. 
+
 ![image](https://user-images.githubusercontent.com/78890771/121822853-0014e800-cc67-11eb-98bc-ca69c5d4d917.png)
 
 Male Subscribers use the bikes the most. 
