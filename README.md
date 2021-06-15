@@ -40,4 +40,4 @@ Male Subscribers use the bikes the most.
 
 Bike sharing has peaks during the weekend and the hours corresponding to the start and end of the workday. Future analysis and visualizations should be focused on finding the residency status of each user and The age range for each user. 
 
-[link to dashboard](https://public.tableau.com/app/profile/tucker.fischer/viz/WhoUsesOurBikes/Story1)
+[link to dashboard](https://public.tableau.com/app/profile/tucker.fischer/viz/WhoUsesOurBikes/WhoUsesOurBikes)
